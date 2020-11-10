@@ -1,32 +1,34 @@
 export default [
   {
     id: 1,
-    name: 'Bertie Yates',
-    age: 29,
+    name: 'Ian Kwach',
+    age: 24,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg',
+      'https://res.cloudinary.com/tabithakavyu/image/upload/v1605046898/kwach_ycrqol.jpg',
+  },
+  
+  {
+    id: 2,
+    name: 'Darrel Idiagbor',
+    age: 22,
+    image:
+    'https://res.cloudinary.com/tabithakavyu/image/upload/v1605046453/WhatsApp_Image_2020-08-31_at_01.30.19_cclbe5.jpg',
   },
   {
     id: 2,
-    name: 'Hester Hogan',
-    age: 32,
+    name: 'Edidiong Asikpo',
+    age: 22,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg',
+      'https://res.cloudinary.com/tabithakavyu/image/upload/v1605046605/EhuyHJbWAAAWuDL_qpufe3.jpg'
   },
   {
     id: 3,
-    name: 'Larry Little',
-    age: 36,
+    name: 'Obinna Ekwuno',
+    age: 23,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg',
+      'https://res.cloudinary.com/tabithakavyu/image/upload/v1605046747/_47A1960_joyeua.jpg',
   },
-  {
-    id: 4,
-    name: 'Sean Walsh',
-    age: 34,
-    image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg',
-  },
+  
   {
     id: 5,
     name: 'Lola Gardner',
